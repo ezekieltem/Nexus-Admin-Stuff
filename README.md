@@ -5,4 +5,4 @@ This repository exists for the purpose of a centeralized place for scripts that 
 Any! New commands, modified commands, new internal systems, or modified internal systems.
 
 # Testing
-Anything tested will be testing on an empty game, with a completely fresh NexusAdmin.
+Anything tested will be tested on an empty game, with a completely fresh NexusAdmin.
