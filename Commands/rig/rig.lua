@@ -10,7 +10,6 @@ Rig command
 --]]
 --!strict
 
-
 local Players = game:GetService("Players")
 local StarterPlayer = game:GetService("StarterPlayer")
 
